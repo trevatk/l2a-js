@@ -1,0 +1,28 @@
+{
+  "name": "l2a",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevatk/l2a-js.git"
+  },
+  "author": "Trevor <trevor@badappsdevelopment.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevatk/l2a-js/issues"
+  },
+  "homepage": "https://github.com/trevatk/l2a-js#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.1.0",
+    "@grpc/proto-loader": "^0.5.0",
+    "async": "^1.5.2",
+    "google-protobuf": "^3.0.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.0",
+    "minimst": "^0.0.1-security"
+  }
+}
